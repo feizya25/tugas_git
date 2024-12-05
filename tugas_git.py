@@ -99,3 +99,4 @@ for lokasi, data in data_panen.items():
         print(f"{data['nama_lokasi']} dalam kondisi baik.")
 
 #banch baru
+#pull
